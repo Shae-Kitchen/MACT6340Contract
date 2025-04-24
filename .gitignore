@@ -1,0 +1,16 @@
+node_modules
+/node_modules
+.env
+coverage
+coverage.json
+typechain
+typechain-types
+.gitignore
+scratchReadMe.md
+scratchNotes.txt
+/scratchNotes
+
+
+#Hardhat
+/cache
+/artifacts

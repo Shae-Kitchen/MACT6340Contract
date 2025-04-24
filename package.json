@@ -1,0 +1,26 @@
+{
+  "name": "mact6340contract",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shae-Kitchen/MACT6340Contract.git"
+  },
+  "keywords": [],
+  "author": "Shae Kitchen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shae-Kitchen/MACT6340Contract/issues"
+  },
+  "homepage": "https://github.com/Shae-Kitchen/MACT6340Contract#readme",
+  "dependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^5.0.0",
+    "@openzeppelin/contracts": "^5.3.0",
+    "dotenv": "^16.5.0",
+    "hardhat": "^2.23.0"
+  }
+}
